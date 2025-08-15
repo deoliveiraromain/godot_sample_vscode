@@ -1,2 +1,2 @@
 # godot_sample_vscode
-Godot Working Example with launch &amp; debug in VSCode
+Godot Working Example with launch and debug in VSCode
